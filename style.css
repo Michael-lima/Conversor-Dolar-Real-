@@ -1,0 +1,63 @@
+body {
+  font-family: "Roboto Mono", monospace ;
+  min-height: 600px;
+  background-image: url("https://media.seudinheiro.com/uploads/2018/10/shutterstock_762360616-628x353.jpg");
+ 
+  background-color: #000000;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat:  no-repeat;
+  
+}
+
+.container {
+  text-align: center;
+  padding: 60px;
+  height: 140vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.page-logo {
+  width: 150px;
+}
+
+.alura-logo {
+  width: 50px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+input {
+  margin: 16px;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+label {
+  
+  padding: 10px;
+  height: 50vh;
+  color: white;
+}
+
+button {
+  margin-top: 20px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 25px;
+}
