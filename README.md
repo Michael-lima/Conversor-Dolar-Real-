@@ -1,7 +1,7 @@
-# Conversor de moedas 
+# Conversor de moedas 💸 💰
 
 > Este é um projeto  criado para converter valor de dólar para real. 
->  Com link abaixo levara direto a pagina do editor codepen onde foi editado o código.
+>  Com link abaixo levará direto a pagina do editor codepen onde foi editado o código.
 
 
 ```
